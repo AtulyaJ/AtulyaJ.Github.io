@@ -1,0 +1,8 @@
+.navbar {background-color: rgb(96, 187, 66);
+height: 135px;
+border: solid black 3px;}
+.navbar-brand {font-size: 25px;}
+.text-center {font-size: 25px;} 
+#menuhead {margin-top: 15px;
+margin-bottom: 25px;}
+.container-fluid {background-color:lightsalmon ;}
